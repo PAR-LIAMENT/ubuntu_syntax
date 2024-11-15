@@ -15,5 +15,3 @@ find . -name "*.txt" -exec grep -rni "hello" {} \;
 
 # type을 지정하고 싶을때 f는 파일, d는 디렉토리
 find . -name "my*" type f -exec grep -rni "hello" {} \;
-
-

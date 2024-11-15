@@ -102,5 +102,3 @@ cp first_file.txt second_file.txt
 # mv 이름변경
 mv first_file.txt ../first_file.txt
 mv first_file.txt third_file.txt
-
-# 짱신기하다..

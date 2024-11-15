@@ -40,8 +40,6 @@ do
     echo "$a"
 done
 
-
-
 file_count=0
 dir_count=0
 other_count=0
